@@ -1,40 +1,51 @@
 {
-  "users": [
-  {
-    "id": 1,
-    "name": "Ariela Carrillo",
-    "username": "ariela.carrillo",
-    "email": "acarrillo@email.com",
-    "phone": "8888-8888",
-    "dietList": {
-      ["Pinto con huevo", 
-      "Tortilla con Queso", 
-      "1T Frutas", "12 Almendras", 
-      "Porcion Carne con Ensalada", 
-      "Porcion Carne con Picadillo", 
-      "1T Pasta", "Sopa", 
-      "1 Paquete de Galleta con Queso", 
-      "1 Manzana", "Ceviche", 
-      "Vegetales"]
-      }
-  },
-  {
-    "id": 2,
-    "name": "Veronica Carrillo",
-    "username": "v.carrillo",
-    "email": "vcarrillo@email.com",
-    "phone": "8888-8888",
-    "dietList": {
-      ["Pinto con huevo", 
-      "Tortilla con Queso", 
-      "1T Frutas", "12 Almendras", 
-      "Porcion Carne con Ensalada", 
-      "Porcion Carne con Picadillo", 
-      "1T Pasta", "Sopa", 
-      "1 Paquete de Galleta con Queso", 
-      "1 Manzana", "Ceviche", 
-      "Vegetales"]
-      }
-  }
-  ]
+	"users": [{
+			"id": 1,
+			"name": "Ariela Carrillo",
+			"username": "ariela.carrillo",
+			"email": "acarrillo@email.com",
+			"phone": "8888-8888",
+			"weightList": ["90", "85"],
+			"imc": ["100"],
+			"dietList": [
+        "lista1",
+				"Pinto con huevo",
+				"Tortilla con Queso",
+				"1T Frutas",
+				"12 Almendras",
+				"Porcion Carne con Ensalada",
+				"Porcion Carne con Picadillo",
+				"1T Pasta",
+				"Sopa",
+				"1 Paquete de Galleta con Queso",
+				"1 Manzana",
+				"Ceviche",
+				"Vegetales"
+			]
+		},
+		{
+			"id": 2,
+			"name": "Veronica Carrillo",
+			"username": "v.carrillo",
+			"email": "vcarrillo@email.com",
+			"phone": "8888-8888",
+			"weightList": ["70", "65"],
+			"imc": ["70"],
+			"dietList": [
+        "lista2:"
+				"Pinto con huevo",
+				"Tortilla con Queso",
+				"1T Frutas",
+				"12 Almendras",
+				"Porcion Carne con Ensalada",
+				"Porcion Carne con Picadillo",
+				"1T Pasta",
+				"Sopa",
+				"1 Paquete de Galleta con Queso",
+				"1 Manzana",
+				"Ceviche",
+				"Vegetales"
+			]
+		}
+	]
 }
