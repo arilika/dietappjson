@@ -8,7 +8,6 @@
 			"weightList": ["90", "85"],
 			"imc": ["100"],
 			"dietList": [
-        "lista1",
 				"Pinto con huevo",
 				"Tortilla con Queso",
 				"1T Frutas",
@@ -29,10 +28,9 @@
 			"username": "v.carrillo",
 			"email": "vcarrillo@email.com",
 			"phone": "8888-8888",
-			"weightList": ["70", "65"],
-			"imc": ["70"],
+			"weightList": ["90", "85"],
+			"imc": ["100"],
 			"dietList": [
-        "lista2:"
 				"Pinto con huevo",
 				"Tortilla con Queso",
 				"1T Frutas",
