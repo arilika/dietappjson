@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Ariela Carrillo",
+    "username": "ariela.carrillo",
+    "email": "acarrillo@email.com",
+    "phone": "8888-8888"
+  },
+  {
+    "id": 2,
+    "name": "Veronica Carrillo",
+    "username": "v.carrillo",
+    "email": "vcarrillo@email.com",
+    "phone": "8888-8888"
+  },
+  {
+    "id": 3,
+    "name": "Yon Gonzalez",
+    "username": "yon",
+    "email": "yngon@email.com",
+    "phone": "8888-8888"
+  },
+  {
+    "id": 4,
+    "name": "Martin Rivera",
+    "username": "mrivera",
+    "email": "mrivera@email.com",
+    "phone": "1-770-736-8031"
+  },
+  {
+    "id": 5,
+    "name": "Lucas Moreno",
+    "username": "moreno",
+    "email": "lmoreno@email.com",
+    "phone": "1-770-736-8031"
+  }
+]
