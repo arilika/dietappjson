@@ -5,14 +5,36 @@
     "name": "Ariela Carrillo",
     "username": "ariela.carrillo",
     "email": "acarrillo@email.com",
-    "phone": "8888-8888"
+    "phone": "8888-8888",
+    "dietList": {
+      ["Pinto con huevo", 
+      "Tortilla con Queso", 
+      "1T Frutas", "12 Almendras", 
+      "Porcion Carne con Ensalada", 
+      "Porcion Carne con Picadillo", 
+      "1T Pasta", "Sopa", 
+      "1 Paquete de Galleta con Queso", 
+      "1 Manzana", "Ceviche", 
+      "Vegetales"]
+      }
   },
   {
     "id": 2,
     "name": "Veronica Carrillo",
     "username": "v.carrillo",
     "email": "vcarrillo@email.com",
-    "phone": "8888-8888"
+    "phone": "8888-8888",
+    "dietList": {
+      ["Pinto con huevo", 
+      "Tortilla con Queso", 
+      "1T Frutas", "12 Almendras", 
+      "Porcion Carne con Ensalada", 
+      "Porcion Carne con Picadillo", 
+      "1T Pasta", "Sopa", 
+      "1 Paquete de Galleta con Queso", 
+      "1 Manzana", "Ceviche", 
+      "Vegetales"]
+      }
   }
   ]
 }
