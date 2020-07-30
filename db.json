@@ -20,7 +20,8 @@
 				"1 Manzana",
 				"Ceviche",
 				"Vegetales"
-			]
+			],
+			"comment":"La mejor dieta, es super facil de realizar y nunca paso hambre. Ya se convirtio en parte de mi estilo de vida."
 		},
 		{
 			"id": 2,
@@ -43,7 +44,8 @@
 				"1 Manzana",
 				"Ceviche",
 				"Vegetales"
-			]
+			],
+			"comment":"Me gusto, es super facil de realizar y nunca paso hambre. Ya se convirtio en parte de mi estilo de vida."
 		}
 	]
 }
